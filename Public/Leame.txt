@@ -1,1 +1,2 @@
 Todos los archivos en esta carpeta son publicos
+solo guardar datos no confidenciales
